@@ -1,3 +1,4 @@
 /*
   Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src *; style-src * 'unsafe-inline'; img-src * data:;
   Access-Control-Allow-Origin: *
+
